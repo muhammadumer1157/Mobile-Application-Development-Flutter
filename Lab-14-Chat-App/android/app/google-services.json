@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "250991021124",
+    "project_id": "lab14-e7f86",
+    "storage_bucket": "lab14-e7f86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250991021124:android:d1997dcfd55a1dfc4e0011",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250991021124-uq5c86agiqa9vbmo5pg5kro33u92cutf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxgxes40CzdTuXg4jukb-R7Ekm8qaggdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250991021124-uq5c86agiqa9vbmo5pg5kro33u92cutf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "250991021124-f7v735dm7uqcsardmpspgv4l484jrpv2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lab14"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250991021124:android:01489c196115c9e04e0011",
+        "android_client_info": {
+          "package_name": "com.example.lab_14"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250991021124-uq5c86agiqa9vbmo5pg5kro33u92cutf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxgxes40CzdTuXg4jukb-R7Ekm8qaggdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250991021124-uq5c86agiqa9vbmo5pg5kro33u92cutf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "250991021124-f7v735dm7uqcsardmpspgv4l484jrpv2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lab14"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
